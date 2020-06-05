@@ -10,5 +10,5 @@
   "main": "dist/js/opentok.js",
   "name": "@opentok/client",
   "types": "dist/js/opentok.d.ts",
-  "version": "99999"
+  "version": "2.17.13"
 }
