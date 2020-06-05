@@ -8,7 +8,7 @@
 
   "license": "https://tokbox.com/support/sdk_license",
   "main": "dist/js/opentok.js",
-  "name": "hearoopentokclient",
+  "name": "@opentok/client",
   "types": "dist/js/opentok.d.ts",
   "version": "99999"
 }
